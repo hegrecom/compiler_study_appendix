@@ -1,0 +1,8 @@
+build/
+.cache
+.vimspector.json
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
